@@ -20,24 +20,35 @@ body {
 .bg-header {
   background-color: #264653;
 }
-.orange {
-  color:  #E76F51;
-  /* background-color: #e76f51; */
+.honda-orange {
+  color: #e76f51;
 }
-.honda-blue{
-    color: #23A6F0;
+.honda-blue {
+  color: #23a6f0;
 }
 
+/* button style */
 .honda-btn-purchase {
   color: white;
-  background-color: #E76F51;
+  background-color: #e76f51;
   border-radius: 5px;
   padding: 9px 35px;
   border: none;
 }
 
+/* featured bike style */
+.featured-bike-img {
+  filter: grayscale(100%);
+}
+
 /* clients image height */
-.client-img-height{
-width: 149px;
-height: 149px;
+.client-img-height {
+  width: 149px;
+  height: 149px;
+}
+
+/* faq image height */
+.faq-image-height {
+  width: 431.2px;
+  height: 423.5px;
 }
