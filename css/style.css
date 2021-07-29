@@ -20,7 +20,6 @@ body {
 .bg-header {
   background-color: #264653;
 }
-
 .honda-orange {
   color: #e76f51;
 }
@@ -42,7 +41,7 @@ body {
   filter: grayscale(100%);
 }
 
-/* clients image height */
+/* clients image style */
 .client-img-height {
   width: 149px;
   height: 149px;
@@ -52,8 +51,4 @@ body {
 .faq-image-height {
   width: 431.2px;
   height: 423.5px;
-}
-
-.honda-text-size {
-  font-size: 48px;
 }
