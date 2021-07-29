@@ -20,6 +20,7 @@ body {
 .bg-header {
   background-color: #264653;
 }
+
 .honda-orange {
   color: #e76f51;
 }
@@ -51,4 +52,8 @@ body {
 .faq-image-height {
   width: 431.2px;
   height: 423.5px;
+}
+
+.honda-text-size {
+  font-size: 48px;
 }
